@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+    
+
+
+:root {
+    --btn-principal: #235852;
+    --Cor-Primária-Hover: #1a433e;
+    --Fundo-da-Seção-do-Meio: #F4F5F4;
+    --Fundo-de-Cards-e-Seção-Hero: #FFFFFF;
+    --placeholders-tags: #E1E7E5;
+    --Fundo-do-Rodapé: #1D2220;
+    --Texto-Principal: #1C1F1E;
+    --Texto-Secundário-Subtítulos: #5E6562;
+}
+
+*, body{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
